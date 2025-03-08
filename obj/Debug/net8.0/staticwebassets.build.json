@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B6FbREbdOsxCzU6m+iTJmv8fRpw8jOc4b68lHtUQSH8=",
+  "Source": "SmartMeterService",
+  "BasePath": "_content/SmartMeterService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "DlmsController",
+    "Method": "ConnectToMeter",
+    "RelativePath": "api/dlms/connect",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "0z+opGJ+Rek=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omen\\source\\repos\\SmartMeterService\\SmartMeterService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omen\\.nuget\\packages\\gurux.common\\8.4.2503.602\\gurux.common.8.4.2503.602.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\gurux.dlms\\9.0.2503.601\\gurux.dlms.9.0.2503.601.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\gurux.net\\8.4.2503.603\\gurux.net.8.4.2503.603.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\system.collections.immutable\\9.0.2\\system.collections.immutable.9.0.2.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\system.formats.nrbf\\9.0.2\\system.formats.nrbf.9.0.2.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\system.reflection.metadata\\9.0.2\\system.reflection.metadata.9.0.2.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\system.resources.extensions\\9.0.2\\system.resources.extensions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
